@@ -5,7 +5,7 @@ File:           SpinlabSC.py
 
 Author:         Steve Fromm
 
-Last Modified:  2017-06-28
+Last Modified:  2017-07-31
 
 Description:    SpinlabSC is a multi-platform library that exposes an interface
 
